@@ -12,6 +12,6 @@ The replenishment of the majority of raw materials is done on a weekly basis and
 
 You need to come up with a story in Tableau that talks about the level of demand in each center. This analysis needs to be granular enough to include product information as well (category, price, etc.). The client wants an end-to-end report to understand which fulfillment areas are doing well and which aren't. You can also talk about center-meal combinations to add nuance to your final submission.
 
-<h2> Visulations</h2>
+<h2> Visualizations</h2>
 
 
